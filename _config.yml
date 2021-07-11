@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "mim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a student of information and communication engineering at Inha University."
+  location         : "Incheon, South Korea" 
   email            :
   links:
     - label: "Email"
