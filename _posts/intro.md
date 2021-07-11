@@ -6,7 +6,7 @@ background:
 tag: [Tips, Github io, Notion]
 ---
 
-# [알고리즘 문제 해결 전략] 공부
+# 책 [알고리즘 문제 해결 전략]
 
 ![book.png](G:\gitblog_posts\intro\intro\book.png)
 
