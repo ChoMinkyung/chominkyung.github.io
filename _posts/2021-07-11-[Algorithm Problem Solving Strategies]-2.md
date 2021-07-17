@@ -1,7 +1,5 @@
 알고리즘 문제 해결 전략 - 목차
 
-'''
-
 <details>
 <summary>01 문제 해결 시작하기</summary>
 <div markdown="1">
@@ -74,7 +72,8 @@
     - [32 네트워크 유량]()<br>
 </div>
 </details>
-'''
+
+---
 
 <div style="text-align: right"> 01 문제 해결 시작하기 </div>
 
