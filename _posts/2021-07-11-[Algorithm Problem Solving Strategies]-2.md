@@ -7,6 +7,7 @@
 <div markdown="1">
   [2 문제 해결 개관](https://chominkyung.github.io/Algorithm-Problem-Solving-Strategies-2/) <br>
   [3 코딩과 디버깅에 관하여]() <br>
+  [구글 홈페이지](https://www.google.com)
 </div>
 </details>
 
