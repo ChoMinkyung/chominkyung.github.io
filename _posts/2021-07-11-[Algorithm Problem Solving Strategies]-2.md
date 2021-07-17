@@ -4,7 +4,7 @@
 <summary>01 문제 해결 시작하기</summary>
 <div markdown="1">
   - [2 문제 해결 개관](https://chominkyung.github.io/Algorithm-Problem-Solving-Strategies-2/) <br>
-  - [3 코딩과 디버깅에 관하여]() <br>
+  - [3 코딩과 디버깅에 관하여](https://chominkyung.github.io/Algorithm-Problem-Solving-Strategies-2/) <br>
 </div>
 </details>
 
