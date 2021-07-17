@@ -2,17 +2,20 @@
 
 알고리즘 문제 해결 전략 - 목차
 
-- 01 문제 해결 시작하기
-
-    [2 문제 해결 개관](https://chominkyung.github.io/Algorithm-Problem-Solving-Strategies-2/)
-
-    [3 코딩과 디버깅에 관하여]()
-
-- 02 알고리즘 분석
-
-    4 알고리즘의 시간 복잡도 분석
-
-    5 알고리즘의 정당성 증명
+<details>
+<summary>01 문제 해결 시작하기</summary>
+<div markdown="1">       
+  [2 문제 해결 개관](https://chominkyung.github.io/Algorithm-Problem-Solving-Strategies-2/)
+  [3 코딩과 디버깅에 관하여]()
+</div>
+  
+<summary>02 알고리즘 분석</summary>
+<div markdown="1">       
+   4 알고리즘의 시간 복잡도 분석
+   5 알고리즘의 정당성 증명
+</div>
+  
+</details>
 
 - 03 알고리즘 설계 패러다임
 
