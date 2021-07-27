@@ -24,9 +24,9 @@ share: false
 <details>
 <summary>01 문제 해결 시작하기</summary>
 <div markdown="1">
-  - [2 문제 해결 개관](/algorithmicProblemSolvingStrategies_01_2.md) <br>
-  - [3 코딩과 디버깅에 관하여(1)](/algorithmicProblemSolvingStrategies_01_3(1)_.md) <br>
-  - [3 코딩과 디버깅에 관하여(2)](/algorithmicProblemSolvingStrategies_01_3(2).md)
+  - [2 문제 해결 개관](/algorithmicProblemSolvingStrategies_01_2) <br>
+  - [3 코딩과 디버깅에 관하여(1)](/algorithmicProblemSolvingStrategies_01_3(1)) <br>
+  - [3 코딩과 디버깅에 관하여(2)](/algorithmicProblemSolvingStrategies_01_3(2))
 </div>
 </details>
 
