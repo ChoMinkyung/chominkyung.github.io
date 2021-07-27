@@ -4,9 +4,9 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 
-layout: post-with-comments
+layout:
 title: "[알고리즘 문제 해결 전략] 소개"
-excerpt: ""
+excerpt: "첵 '알고리즘 문제 해결 전략' 소개"
 date: 2021-07-10
 last_modified_at: 2021-07-10
 categories:

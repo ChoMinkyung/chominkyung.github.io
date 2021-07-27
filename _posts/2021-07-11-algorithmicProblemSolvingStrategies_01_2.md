@@ -4,7 +4,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 
-layout: post-with-comments
+layout:
 title: "[알고리즘 문제 해결 전략] 2 문제 해결 개관"
 excerpt: "01 해결 시작하기 - 2 문제 해결 개관"
 date: 2021-07-11
