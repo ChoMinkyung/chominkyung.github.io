@@ -1,3 +1,24 @@
+---
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
+
+layout: post-with-comments
+title: "[알고리즘 문제 해결 전략] 3 코딩과 디버깅에 관하여(1)"
+excerpt: "01 해결 시작하기 - 3 코딩과 디버깅에 관하여 - 3.1 도입, 3.2 좋은 코드를 짜기 위한 원칙"
+date: 2021-07-18
+last_modified_at: 2021-07-18
+categories:
+  -
+tags:
+  - [알고리즘, 알고리즘 문제 해결 전략]
+
+use_math: false
+comments: true
+share: false
+---
+
 📖[알고리즘 문제 해결 전략] 목차
 
 <details>

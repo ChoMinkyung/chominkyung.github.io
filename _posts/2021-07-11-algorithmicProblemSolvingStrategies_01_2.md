@@ -1,3 +1,24 @@
+---
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
+
+layout: post-with-comments
+title: "[알고리즘 문제 해결 전략] 2 문제 해결 개관"
+excerpt: "01 해결 시작하기 - 2 문제 해결 개관"
+date: 2021-07-11
+last_modified_at: 2021-07-11
+categories:
+  -
+tags:
+  - [알고리즘, 알고리즘 문제 해결 전략]
+
+use_math: false
+comments: true
+share: false
+---
+
 📖[알고리즘 문제 해결 전략] 목차
 
 <details>
