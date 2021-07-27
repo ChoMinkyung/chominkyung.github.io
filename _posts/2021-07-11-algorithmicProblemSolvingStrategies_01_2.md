@@ -24,9 +24,9 @@ share: false
 <details>
 <summary>01 문제 해결 시작하기</summary>
 <div markdown="1">
-  - [2 문제 해결 개관](./2021-07-11-[알고리즘 문제 해결 전략]-2 문제해결.md) <br>
-  - [3 코딩과 디버깅에 관하여(1)](./2021-07-18-[알고리즘 문제 해결 전략]-3 코딩과 디버깅에 관하여(1).md) <br>
-  - [3 코딩과 디버깅에 관하여(2)](./2021-07-25-[알고리즘 문제 해결 전략]-3 코딩과 디버깅에 관하여(2).md)
+  - [2 문제 해결 개관](/algorithmicProblemSolvingStrategies_01_2.md) <br>
+  - [3 코딩과 디버깅에 관하여(1)](/algorithmicProblemSolvingStrategies_01_3(1)_.md) <br>
+  - [3 코딩과 디버깅에 관하여(2)](/algorithmicProblemSolvingStrategies_01_3(2).md)
 </div>
 </details>
 
