@@ -19,7 +19,9 @@ comments: true
 share: false
 ---
 
-# 책 [알고리즘 문제 해결 전략]
+### 알고리즘 문제 해결 전략
+
+##### (저 구동만 출판: 인사이트)
 
 ![book.png](https://user-images.githubusercontent.com/58170545/127159826-b9185158-50b4-43cd-96d0-4f2a464951e6.png){: .align-center}
 
