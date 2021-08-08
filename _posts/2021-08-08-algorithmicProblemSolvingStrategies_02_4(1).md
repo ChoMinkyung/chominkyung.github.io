@@ -5,8 +5,8 @@ toc_icon: "cog"
 toc_sticky: true
 
 layout:
-title: "[알고리즘 문제 해결 전략] 4 알고리즘의 시간 복잡도 분석"
-excerpt: "02 알고리즘 분석 - 4 알고리즘의 시간 복잡도 분석"
+title: "[알고리즘 문제 해결 전략] 4 알고리즘의 시간 복잡도 분석(1)"
+excerpt: "02 알고리즘 분석 - 4 알고리즘의 시간 복잡도 분석 - 4.2 "
 date: 2021-08-08
 last_modified_at: 2021-08-08
 categories:
@@ -33,7 +33,8 @@ share: false
 <details>
 <summary>02 알고리즘 분석</summary>
 <div markdown="1">       
-   - [4 알고리즘의 시간 복잡도 분석](/algorithmicProblemSolvingStrategies_02_4) <br>
+   - [4 알고리즘의 시간 복잡도 분석(1)](/algorithmicProblemSolvingStrategies_02_4(1)) <br>
+   - [4 알고리즘의 시간 복잡도 분석(2)](/algorithmicProblemSolvingStrategies_02_4(2)) <br>
    - [5 알고리즘의 정당성 증명]() <br>
 </div>
 </details>
