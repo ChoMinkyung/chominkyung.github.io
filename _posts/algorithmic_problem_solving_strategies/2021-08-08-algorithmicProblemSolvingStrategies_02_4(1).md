@@ -185,7 +185,7 @@ share: false
 - 모든 답 후보를 평가하기  
   이 문제에서 조건에 따라 답이 달라질 것입니다. 만들 수 있는 모든 음식을 한다면 모두가 먹을 수 있을 것입니다. 하지만 더 좋은 답, 더 적은 종류의 음식만을 준비하고자 합니다. 이렇게 여러 개의 답이 있고 그중 가장 좋은 답을 찾는 간단한 방법은 모든 답을 일일이 고려하는 것입니다. 만들 음식의 목록을 정하는 방법은 음식마다 만들지 말지를 결정하는 것입니다. 이것을 그림과 코드로 표현하면 다음과 같습니다.
 
-  ![4.4-picture1.png](https://user-images.githubusercontent.com/58170545/128634517-db64532f-0c20-4ac5-8d99-0916e714ea10.png){: .align-center}
+  ![4.4-picture1.PNG](https://user-images.githubusercontent.com/58170545/128634517-db64532f-0c20-4ac5-8d99-0916e714ea10.PNG){: .align-center}
 
   ```c++
   const int INF = 987654321;
