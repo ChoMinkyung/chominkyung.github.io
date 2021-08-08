@@ -15,8 +15,8 @@ $indent-var: 1.3em !default;
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
 /* 폰트 이름 추가 */
-$sans-serif: "RIDIBatang", -apple-system, BlinkMacSystemFont, "Roboto",
-  "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif: "GyeonggiBatang", "RIDIBatang", -apple-system, BlinkMacSystemFont,
+  "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -76,6 +76,7 @@ $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #3b9cba !default;
+$mim-color: #7fc638 !default; /*민경 색*/
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
