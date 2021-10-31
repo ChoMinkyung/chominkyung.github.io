@@ -9,8 +9,8 @@ title: "[알고리즘 문제 해결 전략] 3 코딩과 디버깅에 관하여(1
 excerpt: "3.1 도입, 3.2 좋은 코드를 짜기 위한 원칙, 3.3 자주 하는 실수"
 date: 2021-07-18
 last_modified_at: 2021-07-25
-categories: Algorithmic Problem Solving Strategies
-  -
+categories:
+  - Algorithmic Problem Solving Strategies
 tags:
   - [알고리즘, 알고리즘 문제 해결 전략]
 
