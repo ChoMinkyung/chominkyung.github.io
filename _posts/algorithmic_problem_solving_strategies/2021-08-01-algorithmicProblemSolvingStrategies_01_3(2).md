@@ -9,7 +9,7 @@ title: "[알고리즘 문제 해결 전략] 3 코딩과 디버깅에 관하여(2
 excerpt: "3.4 디버깅과 테스팅, 3.5 변수 범위의 이해, 3.6 실수 자료형의 이해"
 date: 2021-08-01
 last_modified_at: 2021-08-01
-categories:
+categories: Algorithmic Problem Solving Strategies
   -
 tags:
   - [알고리즘, 알고리즘 문제 해결 전략]
