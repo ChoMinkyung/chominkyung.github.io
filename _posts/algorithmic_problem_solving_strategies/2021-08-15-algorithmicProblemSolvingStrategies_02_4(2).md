@@ -9,8 +9,8 @@ title: "[알고리즘 문제 해결 전략] 4 알고리즘의 시간 복잡도 �
 excerpt: "4.5 시간 복잡도, 4.6 수행 시간 어림짐작하기, 4.7 계산 복잡도 클래스"
 date: 2021-08-15
 last_modified_at: 2021-08-15
-categories: Algorithmic Problem Solving Strategies
-  -
+categories:
+  - Algorithmic Problem Solving Strategies
 tags:
   - [알고리즘, 알고리즘 문제 해결 전략]
 

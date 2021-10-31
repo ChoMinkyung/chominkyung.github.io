@@ -9,8 +9,8 @@ title: "[알고리즘 문제 해결 전략] 소개"
 excerpt: "첵 '알고리즘 문제 해결 전략' 소개"
 date: 2021-07-10
 last_modified_at: 2021-07-10
-categories: Algorithmic Problem Solving Strategies
-  -
+categories:
+  - Algorithmic Problem Solving Strategies
 tags:
   - [알고리즘, 알고리즘 문제 해결 전략]
 
