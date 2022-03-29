@@ -1,5 +1,5 @@
 ---
-title: "[책]알고리즘 문제해결 전략"
+title: "[책]알고리즘 문제 해결 전략"
 layout: archive
 permalink: categories/apss
 author_profile: true

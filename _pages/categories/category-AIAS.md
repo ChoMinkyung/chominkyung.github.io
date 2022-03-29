@@ -1,5 +1,5 @@
 ---
-title: "[공부]인공지능 응용시스템"
+title: "[공부]Deep learning"
 layout: archive
 permalink: categories/aias
 author_profile: true
