@@ -10,7 +10,7 @@ excerpt: "4.2 선형 시간 알고리즘, 4.3 선형 이하 시간 알고리즘,
 date: 2021-08-08
 last_modified_at: 2021-08-08
 categories:
-  - APSS
+  - Apss
 tags:
   - [알고리즘, 알고리즘 문제 해결 전략]
 
