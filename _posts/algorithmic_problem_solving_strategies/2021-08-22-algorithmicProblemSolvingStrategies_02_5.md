@@ -10,7 +10,7 @@ excerpt: "5.1 도입, 5.2 수학적 귀납법과 반복문 불변식, 5.3 귀류
 date: 2021-08-22
 last_modified_at: 2021-08-22
 categories:
-  - Algorithmic Problem Solving Strategies
+  - APSS
 tags:
   - [알고리즘, 알고리즘 문제 해결 전략]
 

@@ -10,7 +10,7 @@ excerpt: "2.2 문제 해결 과정, 2.3 문제 해결 전략"
 date: 2021-07-11
 last_modified_at: 2021-07-11
 categories:
-  - Algorithmic Problem Solving Strategies
+  - APSS
 tags:
   - [알고리즘, 알고리즘 문제 해결 전략]
 

@@ -6,5 +6,5 @@ author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories['Algorithmic Problem Solving Strategies'] %}
+{% assign posts = site.categories.APSS %}
 {% for post in posts %} {% include archive-single-mim.html type=page.entries_layout %} {% endfor %}
