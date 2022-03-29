@@ -11,7 +11,7 @@
             📂 <span style="font-family:'GyeonggiBatang';">전체 글 수</style> <span style="font-family:'GyeonggiBatang';">{{sum}}</style> <span style="font-family:'GyeonggiBatang';">개</style> 
       </li>
       <li>
-        <!--span 태그로 카테고리들을 크게 분류 ex) #-->
+        <!--span 태그로 카테고리들을 크게 분류 ex)-->
         <span class="nav__sub-title">AI</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
@@ -27,19 +27,11 @@
         <span class="nav__sub-title">Algorithm</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "AlgorithmicProblemSolvingStrategies" %}
+                    {% if category[0] == "APSS" %}
                         <li><a href="/categories/apss" class="">[책]알고리즘 문제해결 전략 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-
-        <span class="nav__sub-title">Coding Test</span>
-           
-        
-        <span class="nav__sub-title">VFX</span>
-        
-        
-        <span class="nav__sub-title">etc</span>
 
       </li>
   </ul>
